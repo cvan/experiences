@@ -14,12 +14,12 @@
   ],
   "icons": [
     {
-      "src": "./32620308184_icon-256.png",
+      "src": "./cartoon-backyard_icon.png",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "./32620308184_favicon.ico",
+      "src": "./cartoon-backyard_icon.ico",
       "sizes": "16x16 32x32 48x48 64x64 256x256",
       "type": "image/x-icon"
     }
