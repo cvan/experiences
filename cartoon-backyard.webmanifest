@@ -1,0 +1,27 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Cartoon Backyard",
+  "description": "A cartoon-esque backyard patio",
+  "display": "fullscreen",
+  "start_url": "./cartoon-backyard.html?src=manifest",
+  "screenshots": [
+    {
+      "src": "./img/32620308184.jpg",
+      "type": "image/jpeg",
+      "sizes": "6000x3000"
+    }
+  ],
+  "icons": [
+    {
+      "src": "./32620308184_icon-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./32620308184_favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64 256x256",
+      "type": "image/x-icon"
+    }
+  ]
+}

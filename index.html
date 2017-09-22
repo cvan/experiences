@@ -9,13 +9,13 @@
       (function () {
         // Redirect to the default page whilst preserving the query string and hash.
         if (window.location.protocol === 'file:') {
-          window.location.href = window.location.href.replace(/\/index.html/i, '/360-drawing.html');
+          window.location.href = window.location.href.replace(/\/index.html/i, '/cartoon-backyard.html');
         } else {
-          window.location.href = './360-drawing' + (window.location.protocol === 'http:' ? '.html' : '') + window.location.search + window.location.hash;
+          window.location.href = './cartoon-backyard' + (window.location.protocol === 'http:' ? '.html' : '') + window.location.search + window.location.hash;
         }
       })();
     </script>
-    <meta http-equiv="refresh" content="1;URL='./360-drawing'"></meta>
+    <meta http-equiv="refresh" content="1;URL='./cartoon-backyard'"></meta>
   </head>
   <body>
   </body>
