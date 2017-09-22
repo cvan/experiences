@@ -10,5 +10,17 @@
       "src": "https://flickr.tunnel.run/dmswart/32620308184/manifest.webmanifest.jpg",
       "type": "image/jpeg"
     }
+  ],
+  "icons": [
+    {
+      "src": "https://flickr.tunnel.run/icon.svg",
+      "type": "image/svg",
+      "sizes": "142x142"
+    },
+    {
+      "src": "https://flickr.tunnel.run/icon.png",
+      "type": "image/png",
+      "sizes": "252x252"
+    }
   ]
 }
