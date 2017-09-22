@@ -14,9 +14,9 @@
   ],
   "icons": [
     {
-      "src": "./img/cartoon-backyard_icon.png",
+      "src": "./img/cartoon_backyard_icon_pop_can.png",
       "type": "image/png",
-      "sizes": "256x256"
+      "sizes": "192x192"
     },
     {
       "src": "./img/cartoon-backyard_icon.ico",
