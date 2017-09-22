@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "360° Drawing",
+  "description": "360° Drawing",
+  "display": "fullscreen",
+  "start_url": "https://flickr.tunnel.run/dmswart/32620308184/manifest.webmanifest",
+  "screenshots": [
+    {
+      "src": "https://flickr.tunnel.run/dmswart/32620308184/manifest.webmanifest.jpg",
+      "type": "image/jpeg"
+    }
+  ]
+}
