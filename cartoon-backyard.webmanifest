@@ -10,6 +10,11 @@
       "src": "./img/32620308184.jpg",
       "type": "image/jpeg",
       "sizes": "6000x3000"
+    },
+    {
+      "src": "./img/cartoon-backyard_screenshot.png",
+      "type": "image/png",
+      "sizes": "1576x1576"
     }
   ],
   "icons": [
